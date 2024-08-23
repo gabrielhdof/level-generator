@@ -7,3 +7,8 @@ https://github.com/user-attachments/assets/af622f08-3168-4c80-8e25-77c99a72f5bf
 
 Move the character around using WASD, when out of bounds you will enter a new randomly generated room. 
 
+# Setup
+
+Run the following command
+
+```pip install -r requirements.txt```
